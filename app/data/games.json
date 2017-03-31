@@ -1,0 +1,111 @@
+[
+   {
+        "name": "Battlefield 1",
+        "edition": "Hardened Edition",
+        "image": "battlefield-1.jpg",
+        "rating": 18,
+        "platform":  "Xbox One",
+        "price": "35",
+        "description": "Fight your way through epic battles ranging from tight urban combat in a besieged French city to the heavily defended mountain forts in the Italian Alps, or frantic combats in the deserts of Arabia. Discover a world at war through an adventure-filled campaign, or join in epic multiplayer battles with up to 64 players, and adapt your tactics to the earth-shattering destruction and dynamic weather. Fight as infantry, lead horse charges or take control of amazing vehicles on land, air and sea, from tanks and biplanes to the gigantic Behemoths – some of the largest vehicles in Battlefield history."
+    },
+    {
+        "name": "Tom Clancy's Ghost Recon: Wildlands",
+        "edition": "Deluxe Edition",
+        "image": "ghost.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4",
+        "price": "44",
+        "description": "Tom Clancy’s Ghost Recon® Wildlands is the very first military shooter in a massive, dangerous, and responsive open world that you can play entirely solo or in four-player co-op.    Bolivia, a few years from now: this beautiful South American country has become the largest cocaine producer in the world. The influential and vicious Santa Blanca drug cartel has turned the country into a narco-state, leading to lawlessness, fear, injustice, and violence. The cartel is on track to becoming a major underworld power and global threat."
+    },
+    {
+        "name": "Resident Evil 7 Biohazard",
+        "edition": "Hardened Edition",
+        "image": "resident-evil-7.jpg",
+        "rating": 18,
+        "platform":  "PC, Playstation 4, Xbox One",
+        "price": "44",
+        "description": "Resident Evil 7 biohazard sets a new course for the Resident Evil series as it leverages its roots and opens the door to a truly terrifying horror experience. Set within a sinister plantation in Dulvey, Louisiana and taking place after the dramatic events of Resident Evil 6, players are introduced to the mysterious Baker family – including Jack and Marguerite, who have seemingly been missing from the area with no recent contact to anyone."
+    },
+    {
+        "name": "Days Gone",
+        "edition": "Deluxe Edition",
+        "image": "days-gone-2.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4",
+        "price": "55",
+        "description": "Days Gone is an open-world action game set in the high-desert of the Pacific Northwest two years after a mysterious global pandemic has decimated the world, killing most but transforming millions into mindless, feral creatures. Survivors live in a world where resources are scarce, violence and murder are common and Freakers roam the wilderness. Players face this violent, new world as Deacon St. John, a bounty hunter, a Drifter who lives in the lawless wilderness outside the civilian encampments. Deacon survives by using skills learned before the world ended, riding for the Mongrels MC, an outlawed motorcycle club, where violence and mayhem were part of the riding the open road."
+    },
+    {
+        "name": "Dead Island 2",
+        "edition": "Collectors Edition",
+        "image": "dead-island-2.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4, Xbox One",
+        "price": "50",
+        "description": "Vast exploration and outlandish survival, welcome to California as zombie playground. Choose from an elite crew of heroes who are immune to the zombie virus. Visceral combat at its best as you fight against hordes of zombies as well as human enemies. Craft your own tools of destruction, from motorized grinders to electric machetes, decide how you want to dismember the zombie horde. Enjoy seamless co-op with up to 8 of your friends as you drop in an out of shared survival adventures."
+    },
+    {
+        "name": "For Honor",
+        "edition": "Hardened Edition",
+        "image": "for-honor.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4",
+        "price": "47",
+        "description": "Carve a path of destruction through the battlefield in For Honor, a brand-new game developed by the renowned Ubisoft Montreal studio. Enter the chaos of a raging war as a bold knight, brutal viking, or mysterious samurai, three of the greatest warrior legacies. For Honor is a fast-paced, competitive experience mixing skill, strategy, and team play with visceral melee combat."
+    },
+    {
+        "name": "Mafia 3",
+        "edition": "Deluxe Edition",
+        "image": "mafia3.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4, PC",
+        "price": "52",
+        "description": "It’s 1968 and after years of combat in Vietnam, Lincoln Clay knows this truth: family isn’t who you’re born with, it’s who you die for. Now back home in New Bordeaux, Lincoln is set on escaping a criminal past. But when his surrogate family, the black mob, is betrayed and wiped out by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through those responsible."
+    },
+    {
+        "name": "Steep",
+        "edition": "Collectors Edition",
+        "image": "steep.jpg",
+        "rating": 12,
+        "platform":  "Playstation 4, Xbox One, PC",
+        "price": "30",
+        "description": "Ride a massive open world of the Alps and Alaska, where the powder is always fresh and the run never ends .Defy and master the world’s most epic mountains on skis, wingsuit, snowboard, and in paraglide. Go solo or drop in side by side with other players. Record and share the most insane stunts ever captured. Dare your friends to try out your custom lines, then challenge the world to beat your best tricks and relive your most epic wipeouts."
+    },
+    {
+        "name": "The Last Guardian",
+        "edition": "Hardened Edition",
+        "image": "the-last-guardian.jpg",
+        "rating": 12,
+        "platform":  "Playstation 4",
+        "price": "40",
+        "description": "The game centers around a young boy who find himself stranded in the ruins of a huge castle. As he explores he meets a feathered creature called Trico and must learn to care for and work with it in order to escape the castle and find freedom. Ueda’s previous works feature silent protagonists and focus more on their interactions with the world and companions to build incredibly thoughtful narratives which lead the player to feel a deep emotional connection and the Last Guardian seems to follow the same trend."
+    },
+    {
+        "name": "Horizon Zero Dawn",
+        "edition": "Deluxe Edition",
+        "image": "horizon-1.jpg",
+        "rating": 16,
+        "platform":  "PC, Xbox One",
+        "price": "47",
+        "description": "As Horizon Zero Dawn’s main protagonist Aloy, a skilled hunter, explore a vibrant and lush world inhabited by mysterious mechanized creatures. Embark on a compelling, emotional journey and unravel mysteries of tribal societies, ancient artifacts and advanced technologies that will determine the fate of this planet, and of life itself."
+    },
+{
+        "name": "Watch Dogs 2",
+        "edition": "Collectors Edition",
+        "image": "watch-dogs-2.jpg",
+        "rating": 18,
+        "platform":  "Playstation 4",
+        "price": "35",
+        "description": "Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, and expose the hidden dangers of ctOS 2.0, which, in the hands of corrupt corporations, is being wrongfully used to monitor and manipulate citizens on a massive scale. With the power of hacking and Dedsec by your side, launch the Hack of the Century, take down ctOS 2.0 and give freedom back to whom it belongs: the people."
+    },
+     {
+        "name": "Dishonored 2",
+        "edition": "Deluxe Edition",
+        "image": "dishonored-2.jpg",
+        "rating": 18,
+        "platform": "Playstation 4",
+        "price": "20",
+        "description": "The Assassins - Play as Emily Kaldwin or Corvo Attano, each with their own sets of powers. Neutralise your enemies in stealth or eliminate using your weapons or powers"
+    }
+   
+]

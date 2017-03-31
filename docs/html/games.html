@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Platinum Games</title>
+	<link href="../css/style.css" rel="stylesheet">
+	<link href="../css/nouislider.css" rel="stylesheet">
+	<link href="../css/foundation.css" rel="stylesheet">
+	<link rel="shortcut icon" href="../img/logo.jpg"/>
+</head>
+<body>
+<!--- Start Navigation -->
+<div id="header">
+    <nav>
+	<div class="drop-menu">&#9776;</div>
+	    <ul>
+		<li><a href="../index.html">Home<a/></li>
+		<li><a href="games.html">Games<a/></li>
+		<li><a href="preorder.html">Cart<a/></li>
+		<li><a href="contactus.html">Contact<a/></li>
+		</ul>
+	</nav>
+</div>
+<!--- End Navigation -->
+<div class="clearfix"></div>
+<div class="content1">
+<!---Start Banner Wrapper--->
+<div id="banner-wrapper">
+	    <h1>Games</h1>
+<div class="clearfix">
+<div class="row">
+<div>
+     <div class="large-12 columns">
+     <div class="row collapse postfix-round">
+     <div class="small-9 columns">
+        <input type="text" name="search" id="search" placeholder="Search Game..." onkeyup="ajax('../data/games.json', searchgame);">
+     </div>
+     <div class="small-3 columns">
+        <a href="#" class="small button" id="searchbtn" onclick="ajax('../data/games.json', searchgame);">Search</a>
+     </div>
+     <div class="small-12 columns">
+         <a href="#" class="small button" id="advancedbutton" onclick="adShowSearch()">Advanced Search</a>
+     <div id="adsearch" class="advancedhide">
+     <div class="small-9 columns">
+         <input type="text" name="searchPlatform" id="searcha" placeholder="Search By Platform..." onkeyup="ajax('../data/games.json', searchgame);">
+     </div>
+     <div id="gamepriceDiv"></div><br>
+        <label>Search By Price</label>
+     </div>
+     </div>
+     <div class="small-12 columns">
+         <a href="games.html" class="small button" id="showbtn">Show All</a>
+     </div>
+     </div>
+     </div>
+</div>
+
+<div class="large-12 columns">
+    <div class="row" id="videogames">
+</div>
+</div>
+             
+</div>
+		
+</div>
+		
+</div>
+<!---Start Parallax Section--->
+    <section class="parallax-3">
+	    <div class="parallax-inner">
+		    
+		</div>
+	</section>	
+</div>
+<!---End Parallax Section---> 
+<div class="clearfix"></div>
+</div>
+<footer>
+    <p>&copy; Platinum Games 2016</p>
+</footer>
+
+<script src="../js/navigation.js"></script>
+<script src="../js/vendor/jquery.js"></script>
+<script src="../js/foundation.min.js"></script>
+<script src="../js/nouislider.min.js"></script> 
+<script src="../js/wNumb.js"></script>
+<script src="../js/javascript.js"></script>
+
+</body>
+</html>
